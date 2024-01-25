@@ -1,4 +1,5 @@
 # LivreRecettes
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5597df46-db39-4d55-8b24-e20c9a688ea2/deploy-status)](https://app.netlify.com/sites/recettestrepanier/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
