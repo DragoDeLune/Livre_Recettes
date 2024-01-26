@@ -1,6 +1,6 @@
 [build]
   command="ng build"
-  publish="dist/livre-recettes/browser"
+  publish="dist/livre-recettes/browsers"
 
 [[redirects]]
   from = "/*"
@@ -9,9 +9,3 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
-
-  [plugins.inputs.postBuild]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
